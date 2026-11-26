@@ -127,7 +127,3 @@ Breast-Cancer-KNN-Classification/
 
 Machine Learning Practice Project completed as part of the Innomatics Research Labs ML Module.
 
-## Disclaimer
-
-This project is developed for educational and machine learning practice purposes only. It is not a medical diagnostic tool and should not be used for clinical decision-making.
-
